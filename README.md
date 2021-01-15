@@ -6,3 +6,4 @@
 | Days   | Project                                     | Live Demo                                                       |
 | ------ | --------------------------------------------| ----------------------------------------------------------------|
 | 01     | Expanding Cards                             | [Live Demo](https://expending-cards.netlify.app/)               |
+| 02     | Progress Steps                              | [Live Demo](https://progress-step-js.netlify.app/)              |
