@@ -6,3 +6,4 @@
 | 02   | Progress Steps      | [Live Demo](https://progress-step-js.netlify.app/)       |
 | 03   | Rotating Navigation | [Live Demo](https://rotating-navigation-js.netlify.app/) |
 | 04   | Search Widget       | [Live Demo](https://search-widget-js.netlify.app/)       |
+| 05   | Blurry Loading      | [Live Demo](https://blurry-loading-js.netlify.app/)      |
