@@ -7,3 +7,4 @@
 | 03   | Rotating Navigation | [Live Demo](https://rotating-navigation-js.netlify.app/) |
 | 04   | Search Widget       | [Live Demo](https://search-widget-js.netlify.app/)       |
 | 05   | Blurry Loading      | [Live Demo](https://blurry-loading-js.netlify.app/)      |
+| 06   | Scroll Animation    | [Live Demo](https://scroll-animation-js.netlify.app/)    |
