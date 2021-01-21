@@ -10,3 +10,4 @@
 | 06   | Scroll Animation    | [Live Demo](https://scroll-animation-js.netlify.app/)    |
 | 07   | Split landing page  | [Live Demo](https://split-landingpage-js.netlify.app/)   |
 | 08   | Form Wave Animation | [Live Demo](https://input-wave-animation.netlify.app/)   |
+| 09   | Sound Board         | [Live Demo](https://sounds-board.netlify.app/)           |
