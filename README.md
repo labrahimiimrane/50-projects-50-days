@@ -8,4 +8,5 @@
 | 04   | Search Widget       | [Live Demo](https://search-widget-js.netlify.app/)       |
 | 05   | Blurry Loading      | [Live Demo](https://blurry-loading-js.netlify.app/)      |
 | 06   | Scroll Animation    | [Live Demo](https://scroll-animation-js.netlify.app/)    |
-| 06   | Split landing page  | [Live Demo](https://split-landingpage-js.netlify.app/)   |
+| 07   | Split landing page  | [Live Demo](https://split-landingpage-js.netlify.app/)   |
+| 08   | Form Wave Animation | [Live Demo](https://input-wave-animation.netlify.app/)   |
