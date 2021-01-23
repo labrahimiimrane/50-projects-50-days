@@ -12,3 +12,4 @@
 | 08   | Form Wave Animation | [Live Demo](https://input-wave-animation.netlify.app/)   |
 | 09   | Sound Board         | [Live Demo](https://sounds-board.netlify.app/)           |
 | 10   | Dad Jokes           | [Live Demo](https://dad-jokes-js.netlify.app/)           |
+| 11   | Event keyCodes      | [Live Demo](https://event-keycodes-js.netlify.app/)      |
