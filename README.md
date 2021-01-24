@@ -13,3 +13,4 @@
 | 09   | Sound Board         | [Live Demo](https://sounds-board.netlify.app/)           |
 | 10   | Dad Jokes           | [Live Demo](https://dad-jokes-js.netlify.app/)           |
 | 11   | Event keyCodes      | [Live Demo](https://event-keycodes-js.netlify.app/)      |
+| 12   | FAQ Collapse        | [Live Demo](https://faq-collapse-js.netlify.app/)        |
