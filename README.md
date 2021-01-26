@@ -15,3 +15,4 @@
 | 11   | Event keyCodes       | [Live Demo](https://event-keycodes-js.netlify.app/)       |
 | 12   | FAQ Collapse         | [Live Demo](https://faq-collapse-js.netlify.app/)         |
 | 13   | Random Choice Picker | [Live Demo](https://random-choice-picker-js.netlify.app/) |
+| 14   | Animated Navigation  | [Live Demo](https://animated-navigation-js.netlify.app/)  |
