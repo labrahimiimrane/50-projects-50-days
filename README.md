@@ -17,3 +17,4 @@
 | 13   | Random Choice Picker | [Live Demo](https://random-choice-picker-js.netlify.app/) |
 | 14   | Animated Navigation  | [Live Demo](https://animated-navigation-js.netlify.app/)  |
 | 15   | Incrementing Counter | [Live Demo](https://counter-incrementing-js.netlify.app/) |
+| 16   | Drink Water          | [Live Demo](https://drink-water-js.netlify.app/)          |
