@@ -24,3 +24,4 @@
 | 20   | Button Ripple Effect | [Live Demo](https://button-ripple-js.netlify.app/)        |
 | 21   | Drag & Drop          | [Live Demo](https://drag-drop-js.netlify.app/)            |
 | 22   | Drawing App          | [Live Demo](https://drawing-app-js.netlify.app/)          |
+| 23   | kinetic-css-loader   | [Live Demo](https://ki-css-loader.netlify.app/)           |
