@@ -26,3 +26,4 @@
 | 22   | Drawing App          | [Live Demo](https://drawing-app-js.netlify.app/)          |
 | 23   | kinetic-css-loader   | [Live Demo](https://ki-css-loader.netlify.app/)           |
 | 24   | Content Placeholder  | [Live Demo](https://content-placeholder-js.netlify.app/)  |
+| 25   | Sticky Navbar        | [Live Demo](https://sticky-navigation.netlify.app/)       |
